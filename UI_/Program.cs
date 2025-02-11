@@ -13,9 +13,9 @@ class Program
 
         Patient patient = new Patient()
         { 
-            Name = "Sisi",
-            Age = 7000,
-            Gender = "Bal7a"
+            Name = "John",
+            Age = 33,
+            Gender = "Male"
         };
 
         clinicManager.AddPatient(patient);
